@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Getting GIT started");
+		System.out.println("Got GIT started");
 
 	}
 
